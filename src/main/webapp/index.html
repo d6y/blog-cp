@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Blog Control Panel</title>
+
+  <style type="text/css" media="screen">
+  </style>
+
+  <script src="jquery-1.10.2.min.js"></script>
+
+</head>
+
+<body>
+
+  <h1>Jane's Blog</h1>
+  <div id="jane-status"></div>
+  <button id="jane-btn" name="name">Refresh and Publish</button>
+  <hr>
+
+  <script data-lift="Services" type="text/javascript" charset="utf-8">
+    var server = {
+      build: function(site) {
+        console.log("Unimplemented build called", site);
+        return $.Deferred().promise();
+      }
+    };
+  </script>
+
+
+  <script type="text/javascript" charset="utf-8">
+
+  function startBuild() {
+    console.log("Starting JANE build");
+
+    $('#jane-status').text('Starting up...');
+    $(this).prop('disabled', true);
+
+    var update = function(msg) {
+      console.log(msg);
+      $('#jane-status').text(msg);
+    };
+
+    var enableButton = function() {
+      console.log("Done");
+      $('#jane-btn').prop('disabled', false);
+    };
+
+    server.build({ site: "jane" }).then(update).done(enableButton);
+  };
+
+  $(function() {
+    $('#jane-btn').click(startBuild);
+  });
+
+  </script>
+
+</body>
+
+</html>
