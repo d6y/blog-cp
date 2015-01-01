@@ -1,0 +1,1688 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"head",
+				"headersToMap"
+			],
+			[
+				"init",
+				"initDb"
+			],
+			[
+				"time",
+				"timezoneName"
+			],
+			[
+				"tm",
+				"timezoneName"
+			],
+			[
+				"B",
+				"Boolean"
+			],
+			[
+				"as",
+				"asyncF"
+			],
+			[
+				"la",
+				"lazyUnit"
+			],
+			[
+				"nonNe",
+				"nonNegativeLessThan"
+			],
+			[
+				"zip",
+				"zipWith"
+			],
+			[
+				"cons",
+				"constant"
+			],
+			[
+				"wit",
+				"withoutCredentails"
+			],
+			[
+				"Cred",
+				"Credential"
+			],
+			[
+				"Goo",
+				"GoogleDataSessionKey"
+			],
+			[
+				"J",
+				"JsSuccess"
+			],
+			[
+				"ref",
+				"refreshToken"
+			],
+			[
+				"oa",
+				"oauthRefreshToken"
+			],
+			[
+				"oauth",
+				"oauthAccessToken"
+			],
+			[
+				"nonL",
+				"adjustNonLeapYears"
+			],
+			[
+				"with",
+				"withoutJsNull"
+			],
+			[
+				"JsN",
+				"JsNull"
+			],
+			[
+				"ba",
+				"baseURI"
+			],
+			[
+				"clss",
+				"classPathResolver"
+			],
+			[
+				"gen",
+				"genResults"
+			],
+			[
+				"known",
+				"knownProgrammes"
+			],
+			[
+				"apply",
+				"applyAction"
+			],
+			[
+				"new",
+				"newApplication"
+			],
+			[
+				"In",
+				"Insurance"
+			],
+			[
+				"Initia",
+				"InitialDecisionCode"
+			],
+			[
+				"Adjust",
+				"AdjustmentCode"
+			],
+			[
+				"Confir",
+				"ConfirmationResponseCode"
+			],
+			[
+				"un",
+				"Unconditional"
+			],
+			[
+				"Confirmation",
+				"ConfirmationDecisionCode"
+			],
+			[
+				"conf",
+				"confirmationDecisionCode"
+			],
+			[
+				"Controll",
+				"ControllerSpecHelpers"
+			],
+			[
+				"id",
+				"init-decision-codes"
+			],
+			[
+				"im",
+				"implicit"
+			],
+			[
+				"selec",
+				"selectorSnc"
+			],
+			[
+				"Appl",
+				"ApplicationMethod"
+			],
+			[
+				"Other",
+				"OtherProgramme"
+			],
+			[
+				"O",
+				"OtherInstitution"
+			],
+			[
+				"Appli",
+				"ApplicationCode"
+			],
+			[
+				"App",
+				"ApplicationCodeChange"
+			],
+			[
+				"Initi",
+				"InitDecisionCodeChange"
+			],
+			[
+				"ApplicationCode",
+				"ApplicationCodeChange"
+			],
+			[
+				"AdjustmentCode",
+				"AdjustmentCodeChange"
+			],
+			[
+				"Conf",
+				"ConfResponseCodeChange"
+			],
+			[
+				"En",
+				"EntryPointChange"
+			],
+			[
+				"R",
+				"Registered"
+			],
+			[
+				"con",
+				"confirmationDecisionCode"
+			],
+			[
+				"Entry",
+				"EntryPoint"
+			],
+			[
+				"Ad",
+				"AdjustmentCodeChange"
+			],
+			[
+				"app",
+				"applicationCode"
+			],
+			[
+				"clearing",
+				"clearingDecisionCode"
+			],
+			[
+				"ClearingR",
+				"ClearingResponseCodeChange"
+			],
+			[
+				"Applica",
+				"Applicant"
+			],
+			[
+				"sess",
+				"session"
+			],
+			[
+				"ap",
+				"application"
+			],
+			[
+				"progrm",
+				"programmeCode"
+			],
+			[
+				"Create",
+				"CreateApplication"
+			],
+			[
+				"create",
+				"createApplication"
+			],
+			[
+				"appli",
+				"application"
+			],
+			[
+				"tr",
+				"trackingCode"
+			],
+			[
+				"programm",
+				"programmeCode"
+			],
+			[
+				"applicant",
+				"applicantId"
+			],
+			[
+				"Selector",
+				"SelectorAction"
+			],
+			[
+				"progr",
+				"programmeCode"
+			],
+			[
+				"adjus",
+				"adjustmentCode"
+			],
+			[
+				"confir",
+				"confirmationResponseCode"
+			],
+			[
+				"initi",
+				"initialResponseCode"
+			],
+			[
+				"entry",
+				"entryPoint"
+			],
+			[
+				"selector",
+				"selectorLine"
+			],
+			[
+				"selecotr",
+				"SelectorLine"
+			],
+			[
+				"sel",
+				"selector"
+			],
+			[
+				"db",
+				"dbApplication"
+			],
+			[
+				"dbApp",
+				"dbApplicant"
+			],
+			[
+				"application",
+				"applicationChoice"
+			],
+			[
+				"for",
+				"forenames"
+			],
+			[
+				"uc",
+				"ucasNumber"
+			],
+			[
+				"stude",
+				"studentId"
+			],
+			[
+				"col",
+				"colName"
+			],
+			[
+				"st",
+				"studentId"
+			],
+			[
+				"Initial",
+				"initialDecisionCode"
+			],
+			[
+				"Selec",
+				"SelectorLine"
+			],
+			[
+				"A",
+				"ApplicantQuery"
+			],
+			[
+				"applica",
+				"applicantId"
+			],
+			[
+				"applicat",
+				"applicant"
+			],
+			[
+				"de",
+				"datetimeField"
+			],
+			[
+				"DateTime",
+				"DateTimeConstaints"
+			],
+			[
+				"S",
+				"Sat"
+			],
+			[
+				"end",
+				"endOfToday"
+			],
+			[
+				"plus",
+				"plusDays"
+			],
+			[
+				"Ho",
+				"HourOfDay"
+			],
+			[
+				"Date",
+				"DateSyntax"
+			],
+			[
+				"full",
+				"fullText"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"qm",
+				"qmLog"
+			],
+			[
+				"clea",
+				"clearingGroups"
+			],
+			[
+				"progR",
+				"qmProgramme"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ctag",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"sbt st",
+				"SBT: Stop SBT"
+			],
+			[
+				"sbt",
+				"SBT: Start SBT"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"jso",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"start",
+				"SBT: Start SBT"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"kill",
+				"SBT: Kill SBT"
+			],
+			[
+				"start sb",
+				"SBT: Start SBT"
+			],
+			[
+				"sbt s",
+				"SBT: Start Console"
+			],
+			[
+				"show sb",
+				"SBT: Show SBT Output"
+			],
+			[
+				"start sbt",
+				"SBT: Start SBT"
+			],
+			[
+				"startsb",
+				"SBT: Start SBT"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"sbt ki",
+				"SBT: Kill SBT"
+			],
+			[
+				"START SBT",
+				"SBT: Start SBT"
+			],
+			[
+				"colour",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"convert spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"cta",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"kill s",
+				"SBT: Kill SBT"
+			],
+			[
+				"sbt start",
+				"SBT: Start SBT"
+			],
+			[
+				"CTA",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"sbt ou",
+				"SBT: Show SBT Output"
+			],
+			[
+				"show s",
+				"CTags: Show Symbols (file)"
+			],
+			[
+				"ctags",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"sbt ",
+				"SBT: Start Console"
+			],
+			[
+				"sbt run",
+				"SBT: Run"
+			],
+			[
+				"s",
+				"SBT: Run"
+			],
+			[
+				"packlage",
+				"Package Control: List Packages"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			],
+			[
+				"show",
+				"Show Scala Worksheet"
+			],
+			[
+				"worksh",
+				"Show Scala Worksheet"
+			],
+			[
+				"kill sb",
+				"SBT: Kill SBT"
+			],
+			[
+				"sbt out",
+				"SBT: Show SBT Output"
+			],
+			[
+				"book",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"mark",
+				"Bookmarks: Select Next"
+			],
+			[
+				"coffe",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"cof",
+				"Coffee: Compile File"
+			],
+			[
+				"coffee",
+				"Coffee: Check Syntax"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			],
+			[
+				"packagecontr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"paackage",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"GitGutter: Show Comparing Against"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"start ",
+				"SBT: Start SBT"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sbt sho",
+				"SBT: Show SBT Output"
+			],
+			[
+				"case",
+				"Convert Case: camelCase"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sbt h",
+				"SBT: Show History"
+			],
+			[
+				"sbt kil",
+				"SBT: Kill SBT"
+			],
+			[
+				"play",
+				"Set Syntax: Play Routes"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"racket",
+				"Set Syntax: Racket"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"kill ",
+				"SBT: Kill SBT"
+			],
+			[
+				"sbt k",
+				"SBT: Kill SBT"
+			],
+			[
+				"sbt sta",
+				"SBT: Start SBT"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sbt output",
+				"SBT: Show SBT Output"
+			],
+			[
+				"sbt str",
+				"SBT: Start SBT"
+			],
+			[
+				"packge control list",
+				"Package Control: List Packages"
+			],
+			[
+				"sbt kill",
+				"SBT: Kill SBT"
+			],
+			[
+				"packinge ",
+				"Package Control: Install Package"
+			],
+			[
+				"dash",
+				"DashDoc: invoke Dash with selected word"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/richard/Developer/mini/blog-cp",
+		"/Users/richard/Developer/mini/blog-cp/src",
+		"/Users/richard/Developer/mini/blog-cp/src/main",
+		"/Users/richard/Developer/mini/blog-cp/src/main/scala",
+		"/Users/richard/Developer/mini/blog-cp/src/main/scala/bootstrap",
+		"/Users/richard/Developer/mini/blog-cp/src/main/scala/bootstrap/liftweb",
+		"/Users/richard/Developer/mini/blog-cp/src/main/scala/cp",
+		"/Users/richard/Developer/mini/blog-cp/src/main/scala/cp/snippet",
+		"/Users/richard/Developer/mini/blog-cp/src/main/webapp"
+	],
+	"file_history":
+	[
+		"/Users/richard/Developer/mini/blog-cp/src/main/webapp/index.html",
+		"/Users/richard/Developer/mini/blog-cp/build.sbt",
+		"/Users/richard/Developer/mini/blog-cp/src/main/scala/bootstrap/liftweb/Boot.scala",
+		"/Users/richard/Developer/mini/blog-cp/src/main/scala/cp/snippet/Services.scala",
+		"/Users/richard/Developer/mini/blog-cp/target/External Libraries/lift-webkit_2.11-3.0-M2/net/liftweb/http/LiftRules.scala",
+		"/Users/richard/Developer/mini/blog-cp/BlogCP.sublime-",
+		"/Users/richard/Developer/mini/blog-cp/script.sh",
+		"/Users/richard/Developer/mini/blog-cp/target/External Libraries/scala-library-2.11.4/scala/runtime/ScalaRunTime.scala",
+		"/Users/richard/Developer/mini/blog-cp/target/External Libraries/scala-library-2.11.4/scala/collection/immutable/StringOps.scala",
+		"/Users/richard/Developer/mini/blog-cp/src/main/scala/cp/snippet/Broadcaster.scala",
+		"/Users/richard/Developer/mini/blog-cp/src/main/scala/spiralarm/woot/Woot.scala",
+		"/Users/richard/tmp/jane/_posts/weavng-project-32.md",
+		"/Users/richard/Dropbox/telegram/d6y/_posts/2014-12-23-codereview.md",
+		"/Users/richard/Desktop/jane-blog.creds",
+		"/Users/richard/tmp/jane/_posts/template.html",
+		"/Users/richard/Desktop/blog convert notes.txt",
+		"/Users/richard/tmp/jb/source/_includes/comment.html",
+		"/Users/richard/tmp/jb/hack.scala",
+		"/Users/richard/tmp/jb/source/_layouts/post.html",
+		"/Users/richard/tmp/jb/source/_layouts/comment.html",
+		"/Users/richard/tmp/jane/hack.scala",
+		"/Users/richard/tmp/jb/boom.sh",
+		"/Users/richard/tmp/jb/fix-oermissions.sh",
+		"/Users/richard/tmp/jb/_posts/weddings.html",
+		"/Users/richard/Developer/idtp/src/main/webapp/templates-hidden/parts/footer.html",
+		"/Users/richard/Desktop/session.txt",
+		"/Users/richard/Developer/idtp/src/main/webapp/img/footer_logo.png",
+		"/Users/richard/Developer/lift/framework/core/util/src/main/scala/net/liftweb/util/Props.scala",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/library/InviteAPI.scala",
+		"/Users/richard/Developer/idtp/src/main/scala/bootstrap/liftweb/Boot.scala",
+		"/Users/richard/Developer/idtp/src/main/javascript/bootstrap/bootstrap-tab.js",
+		"/Users/richard/Developer/idtp/target/streams/$global/compilers/$global/out",
+		"/Users/richard/Developer/idtp/target/resolution-cache/reports/identive-group-identive-group_2.10/optional-resolved.xml",
+		"/Users/richard/Developer/idtp/src/test/scala/com/identivegroup/idtp/model/TestKit.scala",
+		"/Users/richard/Developer/idtp/build.sbt",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/model/Taps.scala",
+		"/Users/richard/Developer/idtp/.gitignore",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/boot/migration/Ticket318.scala",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/snippet/BulkTagUpload.scala",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/snippet/ActionDetailsSnippet.scala",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/service/packages/coffee/snippet/CardStockConfigurationSnippet.scala",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/service/packages/coffee/CoffeeCardPackage.scala",
+		"/Users/richard/Developer/idtp/src/test/scala/com/identivegroup/idtp/service/BundleEvaluationSpec.scala",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/service/BundleEvaluation.scala",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/model/User.scala",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/model/ScheduledJob.scala",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/model/MongoSchema.scala",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/library/WebAPI.scala",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/library/RestAPI.scala",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/util/MailSender.scala",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/snippet/UserScreens.scala",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/snippet/Global.scala",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/snippet/CampaignWeekReportSnippet.scala",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/snippet/CampaignSnippet.scala",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/snippet/CampaignPageChartSnippet.scala",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/boot/migration/Ticket337.scala",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/boot/MongoConfig.scala",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/boot/Migrations.scala",
+		"/Users/richard/Developer/idtp/target/webapp/templates-hidden/services/facebook_like.html",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/snippet/TagScanTimePlotSnippet.scala",
+		"/Users/richard/Developer/idtp/testing_notes_for_application_upgrade.md",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/comet/TagSightings.scala",
+		"/Users/richard/Developer/idtp/target/webapp/global/tagmap.html",
+		"/Users/richard/Developer/idtp/src/test/scala/com/identivegroup/idtp/model/ModelAnalyticsSpec.scala",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/service/BrowserGeoLocation.scala",
+		"/Users/richard/Developer/idtp/target/webapp/google008bb026947dde89.html",
+		"/Users/richard/Developer/idtp/etc/sql/create.sql",
+		"/Users/richard/Developer/idtp/src/main/less/bootstrap/component-animations.less",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/snippet/CampaignPackageSnippet.scala",
+		"/Users/richard/Developer/idtp/target/webapp/campaign/campaignAnalytics.html",
+		"/Users/richard/Developer/idtp/target/webapp/global/bulk.html",
+		"/Users/richard/Developer/idtp/target/webapp/templates-hidden/action/action_description.html",
+		"/Users/richard/Developer/idtp/target/webapp/global/account.html",
+		"/Users/richard/Developer/idtp/src/main/javascript/app.js",
+		"/Users/richard/Developer/idtp/target/webapp/campaign/packages/coffee/cardstock.html",
+		"/Users/richard/Developer/idtp/target/webapp/templates-hidden/parts/campaign_analytics_report.html",
+		"/Users/richard/Developer/idtp/target/webapp/templates-hidden/action/control_form_template.html",
+		"/Users/richard/Developer/idtp/src/main/less/bootstrap/code.less",
+		"/Users/richard/Developer/idtp/target/webapp/templates-hidden/parts/bundle_field_form.html",
+		"/Users/richard/Developer/idtp/src/main/webapp/settings/users.html",
+		"/Users/richard/Developer/idtp/target/webapp/settings/users.html",
+		"/Users/richard/Developer/idtp/etc/schema.md",
+		"/Users/richard/Developer/idtp/etc/Schema Changes.md",
+		"/Users/richard/Developer/idtp/target/webapp/WEB-INF/web.xml",
+		"/Users/richard/Developer/idtp/etc/loadtest/Rest.scala",
+		"/Users/richard/Developer/idtp/ReadMe.md",
+		"/Users/richard/Developer/idtp/src/main/resources/props/richard.props",
+		"/Users/richard/Developer/idtp/target/webapp/campaign/settings/invite.html",
+		"/Users/richard/Developer/idtp/target/webapp/index.html",
+		"/Users/richard/Developer/idtp/etc/image-license.md",
+		"/Users/richard/Developer/idtp/etc/mongo.md",
+		"/Users/richard/Developer/idtp/src/test/resources/tag-batch-files/130129_2of4.xlsx",
+		"/Users/richard/Developer/idtp/target/scala-2.10/cache/default-fcd481/test/inc_compile",
+		"/Users/richard/Developer/idtp/target/resolution-cache/reports/identive-group-identive-group_2.10/test-internal-resolved.xml",
+		"/Users/richard/Developer/idtp/src/main/less/bootstrap/mixins.less",
+		"/Users/richard/Developer/idtp/src/main/resources/props/production.default.props",
+		"/Users/richard/tmp/trove-export/export-openphoto/fetched/jsons",
+		"/Users/richard/tmp/trove-export/export-openphoto/fetched/fix-stamp.sh",
+		"/Users/richard/Developer/site_tour/build.sbt",
+		"/Users/richard/Developer/idtp/src/main/resources/props/production.default.logback.xml",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/comet/IdtpSNS.scala",
+		"/Users/richard/Developer/idtp/src/main/resources/props/default.logback.xml",
+		"/Users/richard/Developer/idtp/src/main/resources/props/staging.default.logback.xml",
+		"/Users/richard/Developer/idtp/target/scala-2.10/classes/props/production.default.props",
+		"/Users/richard/Developer/idtp/target/streams/compile/less/$global/out",
+		"/Users/richard/Developer/idtp/src/main/less/bootstrap/close.less",
+		"/Users/richard/Developer/idtp/src/test/scala/com/identivegroup/idtp/model/SubscriptionSpec.scala",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/util/SnippetHelpers.scala",
+		"/Users/richard/Developer/idtp/src/main/scala/com/identivegroup/idtp/snippet/S3.scala",
+		"/Users/richard/Developer/idtp/src/main/resources/props/staging.default.props",
+		"/Users/richard/Developer/idtp/src/main/resources/props/default.props",
+		"/Users/richard/Developer/idtp/src/main/webapp/index.html",
+		"/Users/richard/Developer/site_tour/sitetour3/ssp/src/main/scala/au/com/sitetour/availability/model/package.scala",
+		"/Users/richard/Developer/site_tour/sitetour3/ssp/src/main/scala/au/com/sitetour/availability/model/GenericScheduleManagerOps.scala",
+		"/Users/richard/site-tour-code-review/src/meta/metadata.yaml",
+		"/Users/richard/site-tour-code-review/src/pages/options/index.md",
+		"/Users/richard/site-tour-code-review/src/pages/index.md",
+		"/Users/richard/site-tour-code-review/src/pages/testing/index.md",
+		"/Users/richard/site-tour-code-review/src/pages/scala/index.md",
+		"/Users/richard/site-tour-code-review/src/pages/structure/index.md",
+		"/Users/richard/site-tour-code-review/src/pages/style/index.md",
+		"/Users/richard/site-tour-code-review/src/pages/caseclasses/index.md",
+		"/Users/richard/site-tour-code-review/src/pages/java/index.md",
+		"/Users/richard/site-tour-code-review/src/pages/flowofcontrol/index.md",
+		"/Users/richard/site-tour-code-review/src/templates/template.tex",
+		"/Users/richard/site-tour-code-review/Gruntfile.coffee",
+		"/Users/richard/site-tour-code-review/src/meta/pdf.yaml",
+		"/Users/richard/Developer/idtp/src/main/resources/props/jonoabroad.props"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/richard/Developer/tigertap.com/src",
+			"scala",
+			"*",
+			"*.scala",
+			"*",
+			"*.coffee",
+			"*.scala",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pattern",
+			"hostname",
+			"toTry",
+			"default",
+			"curl -O `jq -r '.photo' (.+)`",
+			"^(.*)$",
+			"report",
+			"author",
+			"externalPr",
+			"mod",
+			"Interaction",
+			"interactions",
+			"tz",
+			"date",
+			"filter",
+			"colt",
+			"grid",
+			"interactionGrid",
+			"interactions",
+			"date",
+			"\"date\"",
+			"\"success\"",
+			"success",
+			"with_RE",
+			"Interactions",
+			"grid",
+			"gridOptions",
+			"interactions",
+			"from",
+			"$scope.from",
+			"from",
+			"</aside",
+			"data-lift",
+			"\nimport monocle.macros._",
+			", ...",
+			"@>",
+			".get",
+			"partial",
+			"canequa",
+			"canEqual",
+			"visa",
+			"toDto",
+			"sequence",
+			"seq",
+			"sequence",
+			"Rand",
+			"rng",
+			"RNG",
+			"rng",
+			"rnd",
+			"rng",
+			"  println( Stream(1,2,3,4) hasSubsequence Stream(2,3) )\n",
+			"hasSub",
+			"pubicIp",
+			"public",
+			"publicI",
+			"publicIp",
+			"SBT",
+			"stream",
+			"    Video(\"wagging\", \"Dog wagging tail in a forest\", 296261) :: Nil\n",
+			"::",
+			"bytes",
+			"Returning",
+			"video",
+			"DefaultConnectionIdentifier",
+			"f",
+			"signInUrl",
+			"signInU",
+			"auth",
+			"userAuth",
+			"redirect",
+			"Redirect",
+			"Request",
+			"RequestHeader",
+			"session",
+			"clientId",
+			"js",
+			"refreshing",
+			"credentials",
+			"seqOfFutureAs",
+			"google",
+			"credentails",
+			"setPre",
+			"DateMidnight",
+			"DateTime",
+			"DateMidnight",
+			"DateTime",
+			"DateMidnight",
+			"com.typesafe.scalalogging.slf4j.LazyLogging",
+			"libraryDependencies += ",
+			"List",
+			"DataT",
+			"Data",
+			"extends JsValue",
+			"Poly1",
+			"jsvalue",
+			"entity",
+			"package",
+			"unknown entity",
+			"Entity",
+			"GlobalState",
+			"chunkSize",
+			"ChunkSize",
+			"chunkSize",
+			"ChunkSize",
+			"headerLessCSV",
+			"package",
+			"Choice",
+			"JsResult",
+			"// case (source, jsResult @ JsSuccess(line, _)) if knownProgrammes contains line.programmeCode =>\n     //   source -> jsResult.map(diff)\n",
+			"\n  ",
+			"ProgrammeTable",
+			"Programmes",
+			".error",
+			"error",
+			"then",
+			"adjust",
+			"entry",
+			"entryPoint",
+			"entry",
+			"entryP",
+			"qmentry",
+			"entry",
+			"        \"ProgrammeChange\"           : require './selector-list-actions/programme-change.html'\n",
+			"applicantType",
+			"qmInitialDecisionCode",
+			"\\(person",
+			"(person"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"sh fix-stamp.sh $1",
+			"curl -O `jq -r '.photo' $1`",
+			"com.typesafe.scalalogging.LazyLogging",
+			"genActions(preamble+\"$1\") must beLike { case Seq(e: $2) => ok }",
+			"genActions(preamble+$1) must beLine { case Seq(e: $2) => ok }",
+			"case a: $1 => jsonWithClassName(a)",
+			"\\n",
+			"",
+			"  implicit val $1Format = Json.format[$1]\n\n",
+			"case \"$1\" => json.validate[$1]\n",
+			"",
+			"extends SelectorAction //",
+			"case class $1() \\\\ ",
+			"__ \\\\ ",
+			"__ \\ ",
+			"(__ \\ $1).readNullable[String] and",
+			"(__ \\\\ $1_",
+			"$q.when",
+			"\", \"",
+			"''"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sbt":
+	{
+		"height": 299.0
+	},
+	"output.sbt_error":
+	{
+		"height": 0.0
+	},
+	"project": "BlogCP.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"idtpsns",
+				"src/main/scala/com/identivegroup/idtp/comet/IdtpSNS.scala"
+			],
+			[
+				"boot",
+				"src/main/scala/bootstrap/liftweb/Boot.scala"
+			],
+			[
+				"testk",
+				"src/test/scala/com/identivegroup/idtp/model/TestKit.scala"
+			],
+			[
+				"",
+				"build.sbt"
+			],
+			[
+				"boot.",
+				"src/main/scala/bootstrap/liftweb/Boot.scala"
+			],
+			[
+				"build",
+				"build.sbt"
+			],
+			[
+				"bundlee",
+				"src/test/scala/com/identivegroup/idtp/service/BundleEvaluationSpec.scala"
+			],
+			[
+				"bundleeval",
+				"src/main/scala/com/identivegroup/idtp/service/BundleEvaluation.scala"
+			],
+			[
+				"bundleev",
+				"src/test/scala/com/identivegroup/idtp/service/BundleEvaluationSpec.scala"
+			],
+			[
+				"bundleeva",
+				"src/test/scala/com/identivegroup/idtp/service/BundleEvaluationSpec.scala"
+			],
+			[
+				"tagscan",
+				"src/main/scala/com/identivegroup/idtp/snippet/TagScanTimePlotSnippet.scala"
+			],
+			[
+				"global",
+				"src/main/scala/com/identivegroup/idtp/snippet/Global.scala"
+			],
+			[
+				"mailse",
+				"src/main/scala/com/identivegroup/idtp/util/MailSender.scala"
+			],
+			[
+				"userscreens",
+				"src/main/scala/com/identivegroup/idtp/snippet/UserScreens.scala"
+			],
+			[
+				"campaignwee",
+				"src/main/scala/com/identivegroup/idtp/snippet/CampaignWeekReportSnippet.scala"
+			],
+			[
+				"campaignsn",
+				"src/main/scala/com/identivegroup/idtp/snippet/CampaignSnippet.scala"
+			],
+			[
+				"campaignpagc",
+				"src/main/scala/com/identivegroup/idtp/snippet/CampaignPageChartSnippet.scala"
+			],
+			[
+				"ticket33",
+				"src/main/scala/com/identivegroup/idtp/boot/migration/Ticket337.scala"
+			],
+			[
+				"bulku",
+				"src/main/scala/com/identivegroup/idtp/snippet/BulkTagUpload.scala"
+			],
+			[
+				"actiondeta",
+				"src/main/scala/com/identivegroup/idtp/snippet/ActionDetailsSnippet.scala"
+			],
+			[
+				"cards",
+				"src/main/scala/com/identivegroup/idtp/service/packages/coffee/snippet/CardStockConfigurationSnippet.scala"
+			],
+			[
+				"coffeec",
+				"src/main/scala/com/identivegroup/idtp/service/packages/coffee/CoffeeCardPackage.scala"
+			],
+			[
+				"user",
+				"src/main/scala/com/identivegroup/idtp/model/User.scala"
+			],
+			[
+				"taps",
+				"src/main/scala/com/identivegroup/idtp/model/Taps.scala"
+			],
+			[
+				"schedul",
+				"src/main/scala/com/identivegroup/idtp/model/ScheduledJob.scala"
+			],
+			[
+				"mongosc",
+				"src/main/scala/com/identivegroup/idtp/model/MongoSchema.scala"
+			],
+			[
+				"webapi",
+				"src/main/scala/com/identivegroup/idtp/library/WebAPI.scala"
+			],
+			[
+				"restap",
+				"src/main/scala/com/identivegroup/idtp/library/RestAPI.scala"
+			],
+			[
+				"invitea",
+				"src/main/scala/com/identivegroup/idtp/library/InviteAPI.scala"
+			],
+			[
+				"mongocon",
+				"src/main/scala/com/identivegroup/idtp/boot/MongoConfig.scala"
+			],
+			[
+				"318",
+				"src/main/scala/com/identivegroup/idtp/boot/migration/Ticket318.scala"
+			],
+			[
+				"migra",
+				"src/main/scala/com/identivegroup/idtp/boot/Migrations.scala"
+			],
+			[
+				"boo",
+				"src/main/scala/bootstrap/liftweb/Boot.scala"
+			],
+			[
+				"sns",
+				"src/main/scala/com/identivegroup/idtp/comet/IdtpSNS.scala"
+			],
+			[
+				"s3",
+				"src/main/scala/com/identivegroup/idtp/snippet/S3.scala"
+			],
+			[
+				"stripewe",
+				"src/test/scala/com/identivegroup/idtp/stripe/WebhookSpec.scala"
+			],
+			[
+				"stripeweb",
+				"target/specs2-reports/stats/com.identivegroup.idtp.stripe.WebhookSpec.stats"
+			],
+			[
+				"model",
+				"src/main/scala/com/tigertap/model/Model.scala"
+			],
+			[
+				"production.",
+				"src/main/resources/props/production.default.props"
+			],
+			[
+				"readm",
+				"README.md"
+			],
+			[
+				"dash.h",
+				"src/main/webapp/dash.html"
+			],
+			[
+				"richard.",
+				"src/main/resources/props/richard.props"
+			],
+			[
+				"dashbor",
+				"src/main/scala/com/tigertap/snippet/Dashboard.scala"
+			],
+			[
+				"dash",
+				"src/main/webapp/media/js/angular/Dashboard.js"
+			],
+			[
+				"foot",
+				"src/main/webapp/templates-hidden/parts/footer.html"
+			],
+			[
+				"availabilityactor",
+				"sitetour3/ssp/src/main/scala/au/com/sitetour/inventory/actor/AvailabilityActor.scala"
+			],
+			[
+				"productsearcher",
+				"sitetour3/ssp/src/main/scala/au/com/sitetour/inventory/actor/support/ProductSearcher.scala"
+			],
+			[
+				"bestfitforflightschedules",
+				"sitetour3/ssp/src/main/scala/au/com/sitetour/availability/model/BestFitForFlightSchedules.scala"
+			],
+			[
+				"inventoryr",
+				"sitetour3/api/src/main/scala/au/com/sitetour/api/route/sme/InventoryResource.scala"
+			],
+			[
+				"inventorysearchsort",
+				"sitetour3/sme/src/main/scala/au/com/sitetour/sme/model/InventorySearchSort.scala"
+			],
+			[
+				"makeboo",
+				"sitetour3/sme/src/main/scala/au/com/sitetour/sme/actor/MakeBookingService.scala"
+			],
+			[
+				"catalogprotocol.scala",
+				"sitetour3/dmp/src/main/scala/au/com/sitetour/dmp/biz/catalog/CatalogProtocol.scala"
+			],
+			[
+				"polygonweld",
+				"sitetour3/dmp/src/main/scala/au/com/sitetour/dmp/biz/welder/PolygonWelder.scala"
+			],
+			[
+				"geop",
+				"sitetour3/common/src/main/scala/au/com/sitetour/common/model/geo/GeoPoint.scala"
+			],
+			[
+				"sme/src/main/scala/au/com/sitetour/sme/actor/getbookingsactor.scala",
+				"sitetour3/sme/src/main/scala/au/com/sitetour/sme/actor/GetBookingsActor.scala"
+			],
+			[
+				"cardin",
+				"sitetour3/common/src/main/scala/au/com/sitetour/common/model/payment/CardInfo.scala"
+			],
+			[
+				"cardbrandtype",
+				"sitetour3/common/src/test/scala/au/com/sitetour/common/model/payment/CardBrandTypeSpec.scala"
+			],
+			[
+				"uuid",
+				"sitetour3/common/src/main/scala/au/com/sitetour/common/validate/UUIDValidator.scala"
+			],
+			[
+				"pagem",
+				"sitetour3/common/src/main/scala/au/com/sitetour/common/data/model/PageModel.scala"
+			],
+			[
+				"pagemod",
+				"sitetour3/web-resources/src/main/common/ts/model/PageModel.ts"
+			],
+			[
+				"eographicareacomponent.scala",
+				"sitetour3/dmp/src/main/scala/au/com/sitetour/dmp/geo/data/slick/GeographicAreaComponent.scala"
+			],
+			[
+				"lati",
+				"sitetour3/common/src/main/scala/au/com/sitetour/common/model/geo/Latitude.scala"
+			],
+			[
+				"cronexprseriesspec.",
+				"sitetour3/common/src/test/scala/au/com/sitetour/common/util/time/CronExprSeriesSpec.scala"
+			],
+			[
+				"cron",
+				"sitetour3/common/src/main/scala/au/com/sitetour/common/util/time/CronExpr.scala"
+			],
+			[
+				"tradebookingcontroller",
+				"sitetour3/api/src/main/scala/au/com/sitetour/api/controller/TradeBookingController.scala"
+			],
+			[
+				"serialize",
+				"sitetour3/api/src/main/scala/au/com/sitetour/api/serialize/ApiSerializers.scala"
+			],
+			[
+				"securitymanagertokenauthenciatorimpl",
+				"sitetour3/api/src/main/scala/au/com/sitetour/api/security/SecurityManagerTokenAuthenticatorImpl.scala"
+			],
+			[
+				"datawarehouseresouce",
+				"sitetour3/api/src/main/scala/au/com/sitetour/api/route/dmp/DataWarehouseResource.scala"
+			],
+			[
+				"bookingcontrol",
+				"sitetour3/api/src/main/scala/au/com/sitetour/api/controller/sme/BookingControllerImpl.scala"
+			],
+			[
+				"events.sca",
+				"reminder/src/main/scala/rt/snippet/Events.scala"
+			],
+			[
+				"googeld",
+				"reminder/src/main/scala/rt/lib/GoogleData.scala"
+			],
+			[
+				"request",
+				"External Libraries/play_2.11-2.3.4/play/api/mvc/RequestExtractors.scala"
+			],
+			[
+				"b",
+				"reminder-play/build.sbt"
+			],
+			[
+				"routes",
+				"reminder-play/target/scala-2.11/src_managed/main/routes_routing.scala"
+			],
+			[
+				"rout",
+				"reminder-play/conf/routes"
+			],
+			[
+				"any",
+				"External Libraries/scala-library-2.11.2/scala/AnyVal.scala"
+			],
+			[
+				"orc",
+				"jobs/src/main/scala/com/pure360/job/delivery/Orchestrator.scala"
+			],
+			[
+				"servicela",
+				"restApi/app/components/ServiceLayer.scala"
+			],
+			[
+				"listreader",
+				"jobs/src/main/scala/com/pure360/job/delivery/ListReader.scala"
+			],
+			[
+				"rotateo",
+				"platform/src/main/scala/com/pure360/platform/common/RotateMechanismOps.scala"
+			],
+			[
+				"emailvari",
+				"platform/src/main/scala/com/pure360/domain/EmailVariation.scala"
+			],
+			[
+				"orchas",
+				"jobs/src/main/scala/com/pure360/job/delivery/Orchestrator.scala"
+			],
+			[
+				"emailar",
+				"platform/src/main/scala/com/pure360/domain/EmailArgumentObject.scala"
+			],
+			[
+				"sendemailp",
+				"jobs/src/main/scala/com/pure360/job/dse/DeliverySendEmailProcessor.scala"
+			],
+			[
+				"summary",
+				"api/schema/src/main/resources/application_summary.sql"
+			],
+			[
+				"seletorhel",
+				"api/test/selector/SelectorListSpecHelpers.scala"
+			],
+			[
+				"selectorlist",
+				"api/test/selector/SelectorListSpecHelpers.scala"
+			],
+			[
+				"selectoeh",
+				"api/test/selector/SelectorListSpecHelpers.scala"
+			],
+			[
+				"enum",
+				"api/app/models/Enum.scala"
+			],
+			[
+				"parser",
+				"api/test/selector/ParserSpec.scala"
+			],
+			[
+				"parsers",
+				"api/test/selector/ParserSpec.scala"
+			],
+			[
+				"tables",
+				"api/app/models/Tables.scala"
+			],
+			[
+				"httop",
+				"ui/src/app/common/http.coffee"
+			],
+			[
+				"actions",
+				"api/app/selector/SelectorActions.scala"
+			],
+			[
+				"selectolistc",
+				"api/app/controllers/SelectorListController.scala"
+			],
+			[
+				"exec",
+				"api/app/selector/ActionExecutor.scala"
+			],
+			[
+				"selector-list",
+				"ui/src/app/ui/selector-list-display.coffee"
+			],
+			[
+				"action",
+				"api/app/selector/SelectorActions.scala"
+			],
+			[
+				"enu",
+				"ui/src/app/common/enum.coffee"
+			],
+			[
+				"clearing-de",
+				"ui/src/app/ui/selector-list-actions/clearing-response-code-change.html"
+			],
+			[
+				"table",
+				"api/app/models/Tables.scala"
+			],
+			[
+				"selectorq",
+				"api/app/selector/SelectorListQueries.scala"
+			],
+			[
+				"selectorl",
+				"api/app/selector/SelectorLine.scala"
+			],
+			[
+				"enume",
+				"ui/src/app/common/enum.coffee"
+			],
+			[
+				"actiondetec",
+				"api/test/selector/ActionDetectionSpec.scala"
+			],
+			[
+				"actione",
+				"api/app/selector/ActionExecutor.scala"
+			],
+			[
+				"selectorr",
+				"api/app/selector/SelectorListProcessor.scala"
+			],
+			[
+				"qualif",
+				"api/app/models/Qualifications.scala"
+			],
+			[
+				"tabl",
+				"api/app/models/Tables.scala"
+			],
+			[
+				"selectorex",
+				"api/app/selector/ActionExecutor.scala"
+			],
+			[
+				"selectoractio",
+				"api/app/selector/SelectorActions.scala"
+			],
+			[
+				"parsere",
+				"api/test/selector/ParserSpec.scala"
+			],
+			[
+				"controllersp",
+				"api/test/controllers/ControllerSpecHelpers.scala"
+			],
+			[
+				"controller",
+				"api/test/controllers/ControllerSpecHelpers.scala"
+			],
+			[
+				"applciationq",
+				"api/app/models/ApplicationEditorQueries.scala"
+			],
+			[
+				"applic",
+				"api/app/models/ApplicantQueries.scala"
+			],
+			[
+				"applicationedit",
+				"api/app/models/ApplicationEditorSystemNotes.scala"
+			],
+			[
+				"crede",
+				"api/app/models/Credentials.scala"
+			],
+			[
+				"deadline",
+				"api/test/models/ApplicationDeadlinesSpec.scala"
+			],
+			[
+				"cred",
+				"api/app/models/Credentials.scala"
+			],
+			[
+				"classifiers",
+				"api/app/classifier/ClassifierService.scala"
+			],
+			[
+				"actionspec",
+				"api/test/selector/ActionDetectionSpec.scala"
+			],
+			[
+				"selectorlists",
+				"api/test/selector/SelectorListSpecHelpers.scala"
+			],
+			[
+				"qualifi",
+				"api/app/models/Qualifications.scala"
+			],
+			[
+				"quali",
+				"api/app/models/Qualifications.scala"
+			],
+			[
+				"selectspec",
+				"api/test/selector/ParserSpec.scala"
+			],
+			[
+				"select",
+				"api/app/selector/SelectorListParser.scala"
+			],
+			[
+				"selectrolistp",
+				"api/app/selector/SelectorListParser.scala"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 27.0,
+		"selected_items":
+		[
+			[
+				"DefaultConnectionIdentifier",
+				"dbDefaultConnectionIdentifier"
+			],
+			[
+				"setPr",
+				"setPrefix"
+			],
+			[
+				"set",
+				"setPrefix"
+			],
+			[
+				"setPref",
+				"setPrefix"
+			],
+			[
+				"==",
+				"==~"
+			]
+		],
+		"width": 902.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 384.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

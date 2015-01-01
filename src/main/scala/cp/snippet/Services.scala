@@ -28,7 +28,7 @@ object Services extends Loggable {
   private def build(config: JValue) : Stream[JValue] = {
     logger.info(s"Build: $config")
 
-    val cmd = Seq("sh", "/Users/richard/Developer/mini/blog-cp/script.sh")
+    val cmd = Seq("sh", "/home/richard/bin/update-blog", "jane")
     cmd.lineStream.map(s => JString(s))
   }
 }

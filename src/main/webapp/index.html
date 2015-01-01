@@ -37,7 +37,8 @@
 
     var update = function(msg) {
       console.log(msg);
-      $('#jane-status').text(msg);
+      if (msg.length > 0)
+        $('#jane-status').text(msg);
     };
 
     var enableButton = function() {
